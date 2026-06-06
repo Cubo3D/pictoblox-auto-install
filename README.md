@@ -11,7 +11,7 @@ Apesar de parecer demorar 2 segundos para instalar, depedendo do wifi, pode demo
 Depois de terminar o processo e aparecer aquela janela que dá para escrever apenas copie e cole isso:
 
 ```bash
-curl -fsSL https://github.com/Cubo3D/pictoblox-auto-install/autoinstall | bash
+curl -fsSL https://github.com/Cubo3D/pictoblox-auto-install/autoinstall.sh | bash
 ```
 
-Caso você ainda não começou em mexer em computador para copiar e colar é só fazer o seguinte:
+e pronto! só reniciar o computador e você terá o Pictoblox instalado e configurado!
