@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/f1a7c18d-146e-428b-94fc-b39d63f69c43
 # Este repositório serve para professores conseguirem instalar e executar o Pictoblox com pouco trabalho manual
 
 ## Tutorial:
